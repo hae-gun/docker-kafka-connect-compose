@@ -1,1 +1,5 @@
 db/mysql/
+
+all-setting-kafka2/cibbectirs/
+kafka-connect/jars/
+all-setting-kafka/**
